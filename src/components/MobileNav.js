@@ -87,30 +87,3 @@ export default MobileNav;
 
 
 
-// // MobileNav.js
-// import React, { useState } from 'react';
-
-// const MobileNav = () => {
-// //   const [isActive, setIsActive] = useState(false);
-
-// //   const toggleNav = () => {
-// //     setIsActive(!isActive);
-// //   };
-
-//   return (
-//     <div className="navbar-mobile">
-//       {/* <button className="mobile-nav-toggle" onClick={toggleNav}>
-//         Toggle Navigation
-//       </button> */}
-//       <ul className={`mobile-nav`}>
-//         <li><a href="#">Home</a></li>
-//         <li><a href="#">About</a></li>
-//         <li><a href="#">Services</a></li>
-//         {/* Add other navigation items as needed */}
-//       </ul>
-//     </div>
-//   );
-//     };
-
-
-// export default MobileNav;

@@ -11,24 +11,7 @@ const FooterComponent = () => {
                 data-aos-easing="ease-in-out"
                 data-aos-duration={500}
             >
-                {/* <div className="footer-newsletter">
-                    <div className="container">
-                        <div className="row">
-                            <div className="col-lg-6">
-                                <h4>Blog</h4>
-                                <p>
-                                    Our New Blogs
-                                </p>
-                            </div>
-                            <div className="col-lg-6">
-                                <form action="" method="post">
-                                    <input type="email" name="email" />
-                                    <input type="submit" defaultValue="Subscribe" />
-                                </form>
-                            </div>
-                        </div>
-                    </div>
-                </div> */}
+
                 <div className="footer-top">
                     <div className="container">
                         <div className="row">
@@ -41,20 +24,7 @@ const FooterComponent = () => {
                                     <li>
                                         <i className="bx bx-chevron-right" /> <Link to="/About">About us</Link>
                                     </li>
-                                    {/* <div className="social-links mt-3">
-                                    <a href="#" className="twitter">
-                                        <i className="bx bxl-twitter" />
-                                    </a>
-                                    <a href="#" className="facebook">
-                                        <i className="bx bxl-facebook" />
-                                    </a>
-                                    <a href="#" className="instagram">
-                                        <i className="bx bxl-instagram" />
-                                    </a>
-                                    <a href="#" className="linkedin">
-                                        <i className="bx bxl-linkedin" />
-                                    </a>
-                                </div> */}
+          
                                     
                                     
                                 </ul>
@@ -74,13 +44,7 @@ const FooterComponent = () => {
                                         <i className="bx bx-chevron-right" />{" "}
                                         <a href="#">Instruments</a>
                                     </li>
-                                    {/* <li>
-                                        <i className="bx bx-chevron-right" /> <a href="#">Marketing</a>
-                                    </li> */}
-                                    {/* <li>
-                                        <i className="bx bx-chevron-right" />{" "}
-                                        <a href="#">Comming Soon</a>
-                                    </li> */}
+                                    
                                 </ul>
                             </div>
                             <div className="col-lg-3 col-md-6 footer-contact">

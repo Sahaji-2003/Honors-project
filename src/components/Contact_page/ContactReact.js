@@ -1,5 +1,4 @@
-// Make sure to run npm install @formspree/react
-// For more help visit https://formspr.ee/react-help
+
 import React, { useState } from 'react';
 import axios from 'axios';
 
@@ -64,7 +63,7 @@ We’re here to help and answer any question you might have. We look forward to 
                     placeholder="Your Email"
                     required=""
                   />
-                  {/* <input type="email" value={to} onChange={(e) => setEmail(e.target.value)} /> */}
+                 
                 </div>
               </div>
               <div className="form-group mt-3">
