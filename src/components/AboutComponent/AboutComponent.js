@@ -292,7 +292,7 @@ Using advanced geophysical survey methods, we explore groundwater resources to p
     <section className="testimonials" data-aos="fade-up">
       <div className="container">
         <div className="section-title">
-          <h2>Tetstimonials</h2>
+          <h2>Testimonials</h2>
           <p>
           Our clients speak volumes about our exceptional services.
           Discover the testimonials that reflect our commitment 
@@ -301,10 +301,10 @@ Using advanced geophysical survey methods, we explore groundwater resources to p
           have greatly benefited our projects.
           </p>
           <p>
-                <i className="bx bxs-quote-alt-left quote-icon-left" />
-                We encourage each of you to embrace challenges as opportunities,
-                 innovate fearlessly, and foster a collaborative to achieve remarkable milestones.
-                <i className="bx bxs-quote-alt-right quote-icon-right" />
+                {/* <i className="bx bxs-quote-alt-left quote-icon-left" /> */}
+                " We encourage each of you to embrace challenges as opportunities,
+                 innovate fearlessly, and foster a collaborative to achieve remarkable milestones."
+                {/* <i className="bx bxs-quote-alt-right quote-icon-right" /> */}
               </p>
         </div>
         <div className="testimonials-carousel swiper">

@@ -38,9 +38,9 @@ const It_homepage = () => {
                     </div>
                   </div>
                   <div className="col-md-6 ">
-                    <h2 className="title">
+                    <h2 className="it_title">
                       {/* <a href="blog-single.html"> */}
-                      True To Our Motto</h2>
+                      Committed To Our Work</h2>
 
                     <p>
                       <br />

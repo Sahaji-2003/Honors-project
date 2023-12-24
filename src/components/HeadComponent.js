@@ -17,9 +17,9 @@ const HeadComponent = () => {
       >
         <div className="container d-flex justify-content-between align-items-center">
           <div className="logo">
-            <a href="index.html">
+            <Link to="/About">
               <img src="assets/img/asp-logo.png" alt="" className="img-fluid" />
-            </a>
+              </Link>
           </div>
           <nav id="navbar" className="navbar">
           <ul>

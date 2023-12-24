@@ -31,10 +31,10 @@ const InstrumentsComponent = () => {
               <div className="row">
                 <div className="col-lg-12">
                   <ul id="portfolio-flters">
-                    <li data-filter="*" className="filter-active"> All </li>
+                    {/* <li data-filter="*" className="filter-active"> All </li>
                     <li data-filter=".filter-app">GPS</li>
                     <li data-filter=".filter-card">DWLR</li>
-                    <li data-filter=".filter-web">CMR</li>
+                    <li data-filter=".filter-web">CMR</li> */}
                   </ul>
                 </div>
               </div>

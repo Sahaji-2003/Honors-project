@@ -13,7 +13,7 @@ const InstrumentDetails = () => {
           <section className="breadcrumbs">
             <div className="container">
               <div className="d-flex justify-content-between align-items-center">
-                <h2>eTrex-20x Details</h2>
+                <h2>eTrex-22x Details</h2>
                 <ol>
                   <li>
                     <Link to="/">Home</Link>
@@ -21,7 +21,7 @@ const InstrumentDetails = () => {
                   <li>
                     <Link to="/Instruments">Instruments</Link>
                   </li>
-                  <li> eTrex-20x  </li>
+                  <li> eTrex-22x  </li>
                 </ol>
               </div>
             </div>
@@ -49,7 +49,7 @@ const InstrumentDetails = () => {
                 </div>
                 <div className="col-lg-8">
                   <div className="portfolio-info">
-                    <h3>eTrex-20x information</h3>
+                    <h3>eTrex-22x information</h3>
                     <ul>
                       <li>
                         <strong>Category</strong>: Global Positioning System
@@ -61,17 +61,19 @@ const InstrumentDetails = () => {
                         <strong>Instrument Type</strong>: Hand Held GPS
                       </li>
                       <li>
-                        <strong>Instrument</strong>: eTrex 20x
+                        <strong>Instrument</strong>: eTrex 22x
                       </li>
                     </ul>
                   </div>
                   <div className="portfolio-description">
-                    <h2>eTrex 20x detail</h2>
+                    <h2>eTrex 22x detail</h2>
                     <p>
-                      eTrex 20x takes one of the most popular & reliable GPS hand helds & makes it better.
-                      Redesigned ergonomics, an easier-to-use interface, 
-                      paperless geocaching & expanded mapping capabilities add up to serious 
-                      improvements for an already legendary GPS handheld. eTrex 20 is versatile.
+                    2.2” sunlight-readable color display with 240 x 320 display pixels for improved readability<br/>
+Preloaded with TopoActive maps with routable roads and trails for cycling and hiking<br/>
+Support for GPS and GLONASS satellite systems allows for tracking in more challenging environments than GPS alone<br/>
+8 GB of internal memory plus a microSD™ card slot<br/>
+eTrex 32x adds a 3-axis compass and barometric altimeter<br/>
+Battery life: up to 25 hours in GPS mode with 2 AA batteries<br/>
 
                     </p>
                   </div>

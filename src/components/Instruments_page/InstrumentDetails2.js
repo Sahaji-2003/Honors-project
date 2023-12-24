@@ -13,7 +13,7 @@ const InstrumentDetails2 = () => {
           <section className="breadcrumbs">
             <div className="container">
               <div className="d-flex justify-content-between align-items-center">
-                <h2> eTrex-30x </h2>
+                <h2> eTrex-32x </h2>
                 <ol>
                   <li>
                     <Link to="/">Home</Link>
@@ -21,7 +21,7 @@ const InstrumentDetails2 = () => {
                   <li>
                     <Link to="/Instruments">Instruments</Link>
                   </li>
-                  <li> eTrex-30x  </li>
+                  <li> eTrex-32x  </li>
                 </ol>
               </div>
             </div>
@@ -49,7 +49,7 @@ const InstrumentDetails2 = () => {
                 </div>
                 <div className="col-lg-8">
                   <div className="portfolio-info">
-                    <h3>eTrex-30x information</h3>
+                    <h3>eTrex-32x information</h3>
                     <ul>
                       <li>
                         <strong>Category</strong>: Global Positioning System
@@ -61,24 +61,19 @@ const InstrumentDetails2 = () => {
                         <strong>Instrument Type</strong>: Hand Held GPS
                       </li>
                       <li>
-                        <strong>Instrument</strong>: eTrex 30x
+                        <strong>Instrument</strong>: eTrex 32x
                       </li>
                     </ul>
                   </div>
                   <div className="portfolio-description">
-                    <h2>eTrex 30x detail</h2>
+                    <h2>eTrex 32x detail</h2>
                     <p>
-                    eTrex 30x is the most reliable hand held GPS, it has sunlight readable display.
-                    eTrex 30 adds a built-in 3-axis tilt-compensated electronic compass. 
-                    The new eTrex series is the first-ever consumer-grade receivers that can track both GPS & GLONASS 
-                    satellites simultaneously. GLONASS is a system developed by the Russian Federation. When using GLONASS 
-                    satellites, the time it takes for the receiver to “lock on” to a position is (on average) approximately 
-                    20 percent faster than using GPS. & when using both GPS & GLONASS, the receiver has the ability to lock 
-                    on to 24 more satellites than using GPS alone. You can Add Maps With its microSD™ card slot & 1.7 
-                    GB of internal memory, eTrex 30 lets you load TOPO 24K maps or City Navigator NT® map data for 
-                    turn-by-turn routing on roads. eTrex 30 also supports BirdsEye™ Satellite Imagery 
-                    (subscription required), that lets you download satellite images to your device & integrate 
-                    them with your maps.
+                    2.2” sunlight-readable color display with 240 x 320 display pixels for improved readability<br/>
+Preloaded with TopoActive maps with routable roads and trails for cycling and hiking<br/>
+Support for GPS and GLONASS satellite systems allows for tracking in more challenging environments than GPS alone<br/>
+8 GB of internal memory plus a microSD™ card slot<br/>
+eTrex 32x adds a 3-axis compass and barometric altimeter<br/>
+Battery life: up to 25 hours in GPS mode with 2 AA batteries<br/>
 
 
                     </p>
